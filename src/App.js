@@ -13,12 +13,12 @@ function App() {
     <div>
       <div className="App">
         <NavBar/>  
-        <ItemListContainer greeting={"Welcome to the Dj´s World"}/>
+        <ItemListContainer greeting={"Bienvenidos al Mundo del Dj - Welcome to the Dj´s World"}/>
       </div>
 
       <div>
-        <section className="hero is-primary">
-          <div >
+        <section className="container hero is-primary">
+          <div className="has-text-centered">
             <h1 className="title">Mas Vendidos</h1>
           </div>
         </section>

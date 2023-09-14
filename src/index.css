@@ -12,3 +12,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.boton {
+  border: none;
+  background-color: #313235;
+  color: white;
+  margin-bottom: 20px;
+  font-weight: 700;
+  font-size: 1em;
+  padding: 20px;
+}
+
+.levelstore{
+  font-weight: 700;
+  font-size: 1.9em;
+}

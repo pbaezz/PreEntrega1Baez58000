@@ -1,4 +1,4 @@
-import cart from "../components/img/cart-white.svg";
+import cart from "../components/img/shopping-cart-dollar.svg";
 const CartWidget = () =>{
     return (
         <div>
